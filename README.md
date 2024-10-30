@@ -1,4 +1,4 @@
-### <div align="center">I'm Moemen Saadeh, a full-stack developer passionate about building engaging web applications, creating open-source packages, and contributing to projects that make a difference. I love sharing knowledge, experimenting with new ideas, and welcome anyone to collaborate on my packages! </br></br></br></div>  
+### <div align="center"><br/><br/>A full-stack developer passionate about building engaging web applications, creating open-source packages, and contributing to projects that make a difference. I love sharing knowledge, experimenting with new ideas, and welcome anyone to collaborate on my packages! </br></br></br></div>  
   
 
 - 🔭 I’m currently working on [speech-command-engine
@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to MERN and LARAVEL stack related technologies  
   
 
-- ⚡ Fun Fact: When I’m not coding, you’ll probably find me tinkering with Arduino projects or exploring new ways to enhance digital security—two of my favorite hobbies outside development!  
+- ⚡ Fun Fact: When I’m not coding, you’ll probably find me tinkering with Arduino projects 🤖 or exploring new ways to enhance digital security 🔒 —two of my favorite hobbies outside development!  
   
 
 <br/>  
@@ -93,13 +93,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Moemen12&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Moemen12&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
