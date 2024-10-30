@@ -4,24 +4,41 @@
 
 ### Full-Stack Developer | Open Source Enthusiast | Tech Explorer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-ff69b4?style=for-the-badge&logo=google-chrome)](https://saadeh-portfolio.netlify.app)
+[![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~moemensaadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moemen-saadeh-707436260/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Moemen12)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://hashnode.com/@MoemenSaadeh)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/moemensaadeh)
 
+[Check out my portfolio](https://saadeh-portfolio.netlify.app) | [Browse my npm packages](https://www.npmjs.com/~moemensaadeh)
+
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who loves building engaging web applications and contributing to open-source projects that make a difference. With expertise in both MERN and Laravel stacks, I enjoy tackling complex challenges and sharing knowledge with the developer community.
+I'm a passionate full-stack developer dedicated to crafting engaging web applications and publishing useful npm packages. With expertise in both MERN and Laravel stacks, I enjoy tackling complex challenges and sharing knowledge with the developer community. My work spans from creating innovative open-source solutions to building responsive, user-friendly web applications.
 
 ### What I'm Up To
 
 - 🔭 Currently developing [speech-command-engine](https://github.com/Moemen12/speech-command-engine) - an innovative package for voice commands
+- 📦 Publishing and maintaining npm packages to help developers build better applications
 - 🌱 Diving deep into **Microservices Architecture** and **Design Patterns**
 - 🤖 When not coding, I'm tinkering with Arduino projects
 - 🔒 Passionate about digital security and implementing robust solutions
 - 💡 Open to collaboration on interesting projects!
+
+## 💼 Featured Work
+
+### Open Source Packages
+Check out my npm packages at [@moemensaadeh](https://www.npmjs.com/~moemensaadeh), where I publish tools and utilities to help developers build better applications.
+
+### Portfolio Highlights
+Visit my [portfolio](https://saadeh-portfolio.netlify.app) to see:
+- 🎯 Featured Projects
+- 💻 Live Demonstrations
+- 🛠️ Technical Case Studies
+- 🎨 UI/UX Showcases
 
 ## 🛠️ Tech Stack
 
@@ -58,6 +75,8 @@ I'm a passionate full-stack developer who loves building engaging web applicatio
 
 I'm always interested in connecting with fellow developers and tech enthusiasts. Whether you want to discuss a project, collaborate, or just chat about technology, feel free to reach out!
 
+- 🌐 [Portfolio](https://saadeh-portfolio.netlify.app)
+- 📦 [NPM Packages](https://www.npmjs.com/~moemensaadeh)
 - 💼 [LinkedIn](https://www.linkedin.com/in/moemen-saadeh-707436260/)
 - 📝 [Hashnode Blog](https://hashnode.com/@MoemenSaadeh)
 - 💻 [GitHub](https://github.com/Moemen12)
