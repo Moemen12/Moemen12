@@ -37,8 +37,7 @@ Check out my npm packages at [@moemensaadeh](https://www.npmjs.com/~moemensaadeh
 Visit my [portfolio](https://saadeh-portfolio.netlify.app) to see:
 - 🎯 Featured Projects
 - 💻 Live Demonstrations
-- 🛠️ Technical Case Studies
-- 🎨 UI/UX Showcases
+- 📦 Npm Packages
 
 ## 🛠️ Tech Stack
 
