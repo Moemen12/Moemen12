@@ -67,7 +67,7 @@ Visit my [portfolio](https://saadeh-portfolio.netlify.app) to see:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moemen12&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moemen12&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🤝 Let's Connect!
