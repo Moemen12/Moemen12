@@ -21,7 +21,7 @@ I'm a passionate full-stack developer dedicated to crafting engaging web applica
 
 ### What I'm Up To
 
-- 🔭 Currently developing [ArenaX](https://mind-arena-rho.vercel.app) - built-in visual map for server vs client boundaries
+- 🔭 Currently developing [ArenaX](https://mind-arena-rho.vercel.app).
 - 📦 Publishing and maintaining npm packages to help developers build better applications
 - 🌱 Diving deep into **Microservices Architecture** and **Design Patterns**
 - 🤖 When not coding, I'm tinkering with Arduino projects
