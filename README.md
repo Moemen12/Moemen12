@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer dedicated to crafting engaging web applications and publishing useful npm packages. With expertise in both MERN and Laravel stacks, I enjoy tackling complex challenges and sharing knowledge with the developer community. My work spans from creating innovative open-source solutions to building responsive, user-friendly web applications.
+I'm a passionate full-stack developer dedicated to crafting engaging web applications and publishing useful npm packages. With expertise in both MERN and Laravel stacks, I enjoy tackling complex challenges and contributing to open-source projects.
 
 ### What I'm Up To
 
@@ -67,7 +67,7 @@ Visit my [portfolio](https://saadeh-portfolio.netlify.app) to see:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moemen12&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moemen12&show_icons=true&count_private=true&hide_border=true&theme=radical&PAT_1={PAT_1}" alt="GitHub Stats" />
 </div>
 
 ## 🤝 Let's Connect!
