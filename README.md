@@ -64,12 +64,14 @@ Visit my [portfolio](https://saadeh-portfolio.netlify.app) to see:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moemen12&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moemen12&show_icons=true&count_private=true&hide_border=true&theme=radical)
+
+![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)
+![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=flat)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-First-blue?style=flat)
+
 </div>
 
 ## 🤝 Let's Connect!
