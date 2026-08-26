@@ -1,194 +1,77 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:0B1F33,75:164E63,100:22D3EE&height=300&section=header&text=Moemen%20Saadeh&fontSize=75&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%C3%97%20Cloud%20Engineer&descAlignY=58&descSize=22&descColor=BAE6FD" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+ArenaX+%E2%80%94+skill-validation+platform;4%2B+years+in+Node.js+ecosystems;Shipping+full-stack+apps+on+AWS" alt="Typing introduction" />
 
-# Moemen Saadeh
 
-### Senior Full Stack Engineer
-
-**Building scalable, high-performance applications with modern technologies**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moemen-saadeh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF1493?style=for-the-badge&logo=firefox)](https://saadeh-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moemensaadeh936@gmail.com)
-[![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm)](https://npmjs.com/~moemensaadeh)
+<a href="https://github.com/Moemen12"><img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=22D3EE" /></a><a href="https://linkedin.com/in/moemensaadeh"><img src="https://img.shields.io/badge/LinkedIn-050B14?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a><a href="https://saadeh-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-050B14?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a><a href="mailto:moemensaadeh936@gmail.com"><img src="https://img.shields.io/badge/Email-050B14?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
 
 </div>
+<table align="center">
+<tr>
+<td valign="top" width="55%">
 
----
+## 🎯 Right now
 
-## 🎯 About Me
+Community Lead at **NextWork**, focused on AWS architecture, cloud security, and CI/CD pipelines using CodePipeline, CodeBuild, and CodeDeploy.
 
-**Senior Full Stack Engineer** with 4+ years of experience building production-grade applications using modern web technologies. Specialized in Node.js ecosystems, cloud infrastructure, and system design. Passionate about writing clean, maintainable code and mentoring junior developers.
+I am also building [**ArenaX**](https://mind-arena-rho.vercel.app) — an AI-driven assessment platform with MCQ quizzes, real-time challenges, anti-cheat mechanics, and recruiter tools.
 
-### Core Expertise
-- **Full-Stack Development**: Node.js, TypeScript, React, Next.js
-- **System Architecture**: Microservices, Domain-Driven Design, scalable systems
-- **Cloud & DevOps**: AWS (CodePipeline, CloudFront, S3), Docker, CI/CD
-- **Performance Optimization**: 30% page load reduction, 80% API response improvement
-- **Security**: Authentication, authorization, secure document management
+</td>
+<td valign="top" width="45%">
 
----
+## 📦 Open source
 
-## 💼 Professional Experience
+- [**NextRay**](https://www.npmjs.com/package/nextray)
 
-### Senior Full Stack Developer (Contract) | Drv Lebanon
-**Apr 2025 — Oct 2025**
-- Refactored Next.js frontend using Domain-Driven Design, achieving **25% reduction in page load times**
-- Implemented advanced SEO architectures with dynamic sitemaps and semantic metadata
-- Architected secure document management system on AWS with strict data privacy
-- Integrated PostHog analytics for data-driven product decisions
+- [**speech-command-engine**](https://www.npmjs.com/package/speech-command-engine)
 
-### Full Stack Developer | Gulf Crypto Bank
-**Apr 2024 — Jun 2025**
-- Developed secure shareholder management platform with OTP authentication
-- Built digital share marketplace for financial services (2,000+ shareholders)
-- **Optimized Next.js application**: Reduced page load times by **30%**, API performance by **80%** (600ms → 120ms) using Redis cache-aside pattern
-- Contributed to React Native trading application for portfolio management
+- [**ext-sync**](https://www.npmjs.com/package/ext-sync)
 
-### Backend Developer | WebLayer
-**Apr 2023 — Mar 2024**
-- Developed high-performance Laravel APIs supporting **10,000+ daily requests** (40% user growth)
-- Designed modular backend with clear architectural boundaries
-- Integrated Algolia search, significantly reducing query latency
+- [**valid-utils**](https://www.npmjs.com/package/valid-utils)
 
-### Community Lead | NextWork
-**Nov 2025 — Present**
-- Led AWS educational sessions on cloud deployment, VPC architecture, security groups
-- Designed end-to-end CI/CD pipelines with AWS CodePipeline/CodeBuild/CodeDeploy
-- Built high-performance cloud architectures with CloudFront & S3 optimizations
+[View all packages on npm →](https://www.npmjs.com/~moemensaadeh)
 
----
+</td>
+</tr>
+</table>   
+ <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Technology stack
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,laravel,postgres,mongodb,redis,aws,docker&theme=dark&perline=6" alt="Technology stack" /> </div>   
+ <div align="center">
 
-### Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI%2FCD](https://img.shields.io/badge/CI%2FCD-Automation-4CAF50?style=flat-square)
+## 📊 GitHub activity
 
-### Practices & Methodologies
-- **Domain-Driven Design (DDD)**
-- **Microservices Architecture**
-- **E2E Testing & Quality Assurance**
-- **System Design & Scalability**
-- **RESTful APIs & WebSockets**
+<a href="https://github.com/Moemen12?tab=followers"><img src="https://img.shields.io/github/followers/Moemen12?style=for-the-badge&color=22D3EE&labelColor=050B14&logo=github&logoColor=white" alt="GitHub followers" /></a><a href="https://github.com/Moemen12?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=22D3EE&labelColor=050B14&label=Repos&query=public_repos&url=https://api.github.com/users/Moemen12" alt="Public repositories" /></a>
 
----
 
-## 🚀 Featured Projects
 
-### ArenaX — AI-Powered Assessment Platform
-**Tech**: Next.js, NestJS, MongoDB, WebSockets, AI Integration
 
-A competitive skill-validation platform with real-time challenges and anti-cheat mechanisms.
 
-- **Features**: AI-driven MCQ quizzes, real-time multiplayer challenges, recruiter hierarchy management
-- **Impact**: Candidate assessment at scale with secure, fair evaluation
-- **[Live Demo](https://mind-arena-rho.vercel.app)** | **[Repository](https://github.com/Moemen12/arenax-case-study)**
+<a href="https://github.com/Moemen12/github-readme-stats-deploy">
+<img height="180" src="https://github-readme-stats-deploy-ten.vercel.app/api?username=Moemen12&show_icons=true&bg_color=050B14&title_color=22D3EE&text_color=CBD5E1&icon_color=67E8F9&border_color=164E63&rank_icon=github" alt="Moemen's GitHub statistics" />
+</a>
+<a href="https://github.com/Moemen12/github-readme-stats-deploy">
+  <img height="180" src="https://github-readme-stats-deploy-ten.vercel.app/api/top-langs/?username=Moemen12&layout=compact&bg_color=050B14&title_color=22D3EE&text_color=CBD5E1&border_color=164E63&langs_count=8" alt="Moemen's most used languages" />
+</a>
 
----
 
-### Car Rental System — Microservices Architecture
-**Tech**: NestJS, PostgreSQL, RabbitMQ, Docker, Microservices
 
-An advanced car rental platform demonstrating enterprise-level architecture.
 
-- **Architecture**: Service-oriented with async messaging via RabbitMQ
-- **Features**: Booking management, fleet tracking, real-time processing
-- **Best For**: Understanding scalable microservices patterns
-- **[Repository](https://github.com/Moemen12/car-rental-system)**
 
----
-
-### Event Platform — Real-Time Collaboration
-**Tech**: TypeScript, WebSockets, Real-time Updates
-
-A platform showcasing real-time event management and live collaboration features.
-
-- **[Repository](https://github.com/Moemen12/Event_Platform)**
-
----
-
-### ETL Pipeline — Data Processing
-**Tech**: TypeScript, Data Engineering, Batch Processing
-
-Demonstrates modern data pipeline architecture and processing patterns.
-
-- **[Repository](https://github.com/Moemen12/etl_pipeline)**
-
----
-
-## 📦 Open Source Contributions
-
-Published reusable npm packages to help the developer community:
-
-- **[NextRay](https://npmjs.com/package/nextray)** — Next.js utilities
-- **[ext-sync](https://npmjs.com/package/ext-sync)** — Portable dev environment setup
-- **[speech-command-engine](https://npmjs.com/package/speech-command-engine)** — Voice interaction library
-- **[valid-utils](https://npmjs.com/package/valid-utils)** — Validation utilities
-
-**[View all packages →](https://npmjs.com/~moemensaadeh)**
-
----
-
-## 📊 Key Performance Metrics
-
-| Achievement | Impact |
-|------------|--------|
-| **Page Load Optimization** | 30% reduction in frontend load times |
-| **API Performance** | 80% improvement (600ms → 120ms) |
-| **System Scalability** | Designed for 10,000+ daily requests |
-| **User Growth** | 40% increase through performance improvements |
-| **Uptime & Reliability** | Production systems with secure authentication |
-
----
-
-## 🌱 Continuous Learning
-
-Currently exploring:
-- Advanced system design patterns
-- Cloud-native architecture
-- AI/ML integration in web applications
-- Microservices orchestration
-
----
-
-## 📚 Languages
-
-- **Arabic** — Native
-- **English** — Professional
-- **Turkish** — Fluent
-- **French** — Beginner
-
----
-
-## 🤝 Let's Connect
-
+<img src="https://streak-stats.demolab.com/?user=Moemen12&hide_border=true&background=050B14&stroke=164E63&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak" /> </div>
 <div align="center">
 
-**Interested in collaborating or discussing technical challenges?**
+## 🚀 Featured work
 
-[📧 Email](mailto:moemensaadeh936@gmail.com) • 
-[💼 LinkedIn](https://linkedin.com/in/moemen-saadeh) • 
-[🌐 Portfolio](https://saadeh-portfolio.netlify.app) • 
-[📦 npm](https://npmjs.com/~moemensaadeh)
-
----
-
-<sub>Open to remote opportunities and international relocation</sub>
+<a href="https://mind-arena-rho.vercel.app"><img src="https://img.shields.io/badge/ArenaX-AI%20Assessment%20Platform-050B14?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a><a href="https://github.com/Moemen12/car-rental-system"><img src="https://img.shields.io/badge/Car%20Rental-Microservices-050B14?style=for-the-badge&logo=nestjs&logoColor=22D3EE" /></a><a href="https://github.com/Moemen12/Event_Platform"><img src="https://img.shields.io/badge/Event%20Platform-Realtime%20Collaboration-050B14?style=for-the-badge&logo=socketdotio&logoColor=22D3EE" /></a>
 
 </div>
+<div align="center">
+
+> Building reliable software where **product thinking, system design, and cloud engineering** meet.
+
+[![Profile views](https://komarev.com/ghpvc/?username=Moemen12&color=22D3EE&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Moemen12)
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:164E63,70:0B1F33,100:050B14&height=150&section=footer" width="100%"/> <!-- Self-hosted stats deployment: github-readme-stats-deploy-ten.vercel.app -->
