@@ -4,35 +4,20 @@
 <a href="https://github.com/Moemen12"><img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=22D3EE" /></a><a href="https://linkedin.com/in/moemen-saadeh"><img src="https://img.shields.io/badge/LinkedIn-050B14?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a><a href="https://saadeh-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-050B14?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a><a href="mailto:moemensaadeh936@gmail.com"><img src="https://img.shields.io/badge/Email-050B14?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
 
 </div>
-<table align="center">
-<tr>
-<td valign="top" width="55%">
+<div align="center">
 
-## 🎯 Right now
+## 🧭 What I work on
 
-Community Lead at **NextWork**, focused on AWS architecture, cloud security, and CI/CD pipelines using CodePipeline, CodeBuild, and CodeDeploy.
+</div>
 
-I am also building [**ArenaX**](https://mind-arena-rho.vercel.app) — an AI-driven assessment platform with MCQ quizzes, real-time challenges, anti-cheat mechanics, and recruiter tools.
+| Focus | Details |
+| --- | --- |
+| **AI & product engineering** | Building [**ArenaX**](https://mind-arena-rho.vercel.app), an AI assessment platform with MCQ quizzes, real-time challenges, anti-cheat mechanics, and recruiter tools. |
+| **Cloud & delivery** | At **NextWork**, working with AWS architecture, cloud security, and delivery pipelines using CodePipeline, CodeBuild, and CodeDeploy. |
+| **Open-source tools** | Publishing practical developer tools such as [**NextRay**](https://www.npmjs.com/package/nextray), [**speech-command-engine**](https://www.npmjs.com/package/speech-command-engine), [**ext-sync**](https://www.npmjs.com/package/ext-sync), and [**valid-utils**](https://www.npmjs.com/package/valid-utils). |
 
-</td>
-<td valign="top" width="45%">
 
-## 📦 Open source
-
-- [**NextRay**](https://www.npmjs.com/package/nextray)
-
-- [**speech-command-engine**](https://www.npmjs.com/package/speech-command-engine)
-
-- [**ext-sync**](https://www.npmjs.com/package/ext-sync)
-
-- [**valid-utils**](https://www.npmjs.com/package/valid-utils)
-
-[View all packages on npm →](https://www.npmjs.com/~moemensaadeh)
-
-</td>
-</tr>
-</table>   
- <div align="center">
+<div align="center">
 
 ## 🛠️ Technology stack
 
@@ -62,11 +47,18 @@ I am also building [**ArenaX**](https://mind-arena-rho.vercel.app) — an AI-dri
 <img src="https://streak-stats.demolab.com/?user=Moemen12&hide_border=true&background=050B14&stroke=164E63&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub contribution streak" /> </div>
 <div align="center">
 
-## 🚀 Featured work
-
-<a href="https://mind-arena-rho.vercel.app"><img src="https://img.shields.io/badge/ArenaX-AI%20Assessment%20Platform-050B14?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a><a href="https://github.com/Moemen12/car-rental-system"><img src="https://img.shields.io/badge/Car%20Rental-Microservices-050B14?style=for-the-badge&logo=nestjs&logoColor=22D3EE" /></a><a href="https://github.com/Moemen12/Event_Platform"><img src="https://img.shields.io/badge/Event%20Platform-Realtime%20Collaboration-050B14?style=for-the-badge&logo=socketdotio&logoColor=22D3EE" /></a>
+## 🚀 Selected projects
 
 </div>
+
+| Project | Description | Link |
+| --- | --- | --- |
+| **ArenaX** | AI-powered skill assessment platform with real-time challenges and recruiter tools. | [Live demo](https://mind-arena-rho.vercel.app) |
+| **Kudwa Ledger Connect** | Ledger and connectivity project focused on financial workflows. | [View repository](https://github.com/Moemen12/Kudwa-Ledger-Connect) |
+| **VidMetrics** | Video metrics and analytics project. | [View repository](https://github.com/Moemen12/VidMetrics) |
+| **BioPay Frontend** | Frontend experience for a digital payments product. | [View repository](https://github.com/Moemen12/BioPay-Frontend) |
+
+
 <div align="center">
 
 > Building reliable software where **product thinking, system design, and cloud engineering** meet.
